@@ -4,7 +4,7 @@
 <head>
 <title>TATA ELXSI</title>
 </head>
-<h1 style="background-color:Voilet;color:white;"><center>Welcome to the TATA ELXSI Group</center></h1>
+<h1 style="background-color:DodgerBlue;color:white;"><center>Welcome to the TATA ELXSI Group</center></h1>
 <body>
   <from>
 <table>
@@ -58,9 +58,10 @@
       <tr>
       <td>
       <input type="Submit" value"Submit" name"">
+      <h1 style="color:blue;"> <center>To Visit the web page
+<a href="https://www.tataelxsi.com/#"><button>Click Me</button></a></center></h1>
        </td>
        </tr>
-       <h1 style="background-color:Blue;"><center>Wel come</center></h1>
        </table>
        </from>                                     
        </body>
