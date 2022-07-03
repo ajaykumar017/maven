@@ -1,38 +1,51 @@
 
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>TATA ELXSI</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
+<!DOCTYPE html>
+<head>
+  <tittle>Document</tittle>
+</head>
+<body background="img/01.jpg">
+  
+  <table border="0"width="100%"height="700px">
+    
+    <tr>
+      <th><font face="Monoton">TATA GROUPS.in</font>
+      </th>
+      <th></th>
+      <th>Home</th>
+      <th>About us</th>
+      <th>Contact us</th>
+      <th></th>
+      </tr>
+    
+    <!-----Row2----->
+    <tr>
+      <th>colspan="6>
+        <font color"Black"face="Helvetica"size="5">
+      <h1>Welcome to TATA ELXSI</h1>
+      <h2>Hyderabad Banglore Pune</h2>
+      </font>
+       </th>
+      </tr>
+    <!-----Row3----->
+<tr>
+      th>colspan="6>
+<font size="5" color="Black">Visit Now
+  </font>
+      <th>About us</th>
+      <th>Contact us</th>
+      <th></th>
+      
+      th>colspan="6></th>
+      <h1>Welcome to TATA ELXSI</h1>
+      
+      <th></th>
+      <th>Home</th>
+      <th>About us</th>
+      <th>Contact us</th>
+      <th></th>
+      
+      
+     
 
    
     
