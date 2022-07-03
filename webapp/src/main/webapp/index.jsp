@@ -60,6 +60,7 @@
       <input type="Submit" value"Submit" name"">
        </td>
        </tr>
+       <h1 style="background-color:Blue;"><center>Wel come</center></h1>
        </table>
        </from>                                     
        </body>
