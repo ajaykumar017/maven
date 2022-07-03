@@ -1,19 +1,38 @@
 
-<html>
-   <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <tittle>My First Website</tittle>
-   </head>
-   <body>
-      <h1 style="background-color:DodgerBlue;color:white;"><center>Welcome to the TATA ELXSI world</center></h1>
-      <h1 style="color:blue;"> <center>To Visit the web page,<a href="https://www.tataelxsi.com/#"><button>Click Me</button></a></center></h1>
-      <h1 style="background-color:yellow;"><center>Wel come</center></h1>
-      <em>Tata Elxsi</em>
-      <h1>provides integrated services – from research and strategy, to electronics and mechanical design, software development, validation and deployment, and is supported by a network of design studios, global development centers and offices worldwide.</p>
-   </body>
-</html>
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>TATA ELXSI</title>
+    <style>
+      body {
+        background: #FFFFFF;
+        margin: 0;
+      }
 
+      #backgroundImage {
+        border: none;
+        height: 100%;
+        pointer-events: none;
+        position: fixed;
+        top: 0;
+        visibility: hidden;
+        width: 100%;
+      }
+
+      [show-background-image] #backgroundImage {
+        visibility: visible;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe id="backgroundImage" src=""></iframe>
+    <ntp-app></ntp-app>
+    <script type="module" src="new_tab_page.js"></script>
+    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <link rel="stylesheet" href="shared_vars.css">
+  </body>
+</html>
 
    
     
