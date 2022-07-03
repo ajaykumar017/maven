@@ -58,8 +58,6 @@
       <tr>
       <td>
       <input type="Submit" value"Submit" name"">
-      <h1 style="color:blue;"> <center>To Visit the web page
-<a href="https://www.tataelxsi.com/#"><button>Click Me</button></a></center></h1>
        </td>
        </tr>
        </table>
