@@ -4,13 +4,13 @@
 <head>
 <title>TATA ELXSI</title>
 </head>
-<h1 style="background-color:DodgerBlue;color:white;"><center>Welcome to the TATA ELXSI Group</center></h1>
+<h1 style="background-color:Orange;color:white;"><center>Welcome to the TATA ELXSI Group</center></h1>
 <body>
   <from>
 <table>
   <tr>
     <td>
-      Name : 
+     User Name : 
     </td>
   <td>
     <input type="text"placeholder="Name"name="">
