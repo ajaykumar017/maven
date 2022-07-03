@@ -1,52 +1,63 @@
 
 <!DOCTYPE html>
+<html>
 <head>
-  <tittle>Document</tittle>
+<title>TATA ELXSI</title>
 </head>
-<body background="img/01.jpg">
-  
-  <table border="0"width="100%"height="700px">
-    
-    <tr>
-      <th><font face="Monoton">TATA GROUPS.in</font>
-      </th>
-      <th></th>
-      <th>Home</th>
-      <th>About us</th>
-      <th>Contact us</th>
-      <th></th>
+<body>
+  <from>
+<table>
+  <tr>
+    <td>
+      Name : 
+    </td>
+  <td>
+    <input type="text"placeholder="Name"name="">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Password : 
+    </td>
+    <td>
+      <input type="Password" placeholder="Password" name="">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Gender :
+    </td>
+    <td>
+      <input type"radio" name="Gender">Male
+      <input type="radio name="Gender">Female 
+     </td>
+     <tr>
+     <td>
+       Email :
+       </td>
+       <td>
+       <input type"mail" placeholder="Email" name="">
+       </td>
+       </tr>
+       <tr>
+       <td>
+       Phone no : 
+       </td>
+       <td>
+       <select>
+      <option>30914</option>
+      <option>30914</option>
+      <option>30914</option>
+      <option>30914</option>
+      <option>30914</option>
+      </select>
+      <input type"Phone" placeholder"1234*****" name="">
+      </td>
       </tr>
-    
-    <!-----Row2----->
-    <tr>
-      <th>colspan="6>
-        <font color"Black"face="Helvetica"size="5">
-      <h1>Welcome to TATA ELXSI</h1>
-      <h2>Hyderabad Banglore Pune</h2>
-      </font>
-       </th>
-      </tr>
-    <!-----Row3----->
-<tr>
-      th>colspan="6>
-<font size="5" color="Black">Visit Now
-  </font>
-      <th>About us</th>
-      <th>Contact us</th>
-      <th></th>
-      
-      th>colspan="6></th>
-      <h1>Welcome to TATA ELXSI</h1>
-      
-      <th></th>
-      <th>Home</th>
-      <th>About us</th>
-      <th>Contact us</th>
-      <th></th>
-      
-      
-     
-
+       </table>
+       </from>                                     
+       </body>
+       </html>
    
     
    
