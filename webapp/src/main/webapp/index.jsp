@@ -4,7 +4,7 @@
 <head>
 <title>TATA ELXSI</title>
 </head>
-<h1 style="background-color:DodgerBlue;color:white;"><center>Welcome to the TATA ELXSI Group</center></h1>
+<h1 style="background-color:DodgerBlue;color:blue;"><center>Welcome to the TATA ELXSI Group</center></h1>
 <body>
   <from>
 <table>
