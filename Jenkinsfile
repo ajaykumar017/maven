@@ -1,10 +1,33 @@
 pipeline {
-agent any
-stages{
-stages ('Git Checkout'){
-steps{
-git branch: 'main', url: 'https://github.com/ajaykumar017/maven.git'
+    agent any
+
+    stages {
+        stage('Continous Download') {
+            steps {
+                echo 'Downloading'
+            }
+        }
+stage('Continous Integration') {
+            steps {
+                echo 'Integration'
+    }
+}
+stage('Continous Deployement') {
+            steps {
+                echo 'Deploying'
+     }
+}
+stage('Continous Delivery') {
+            steps {
+                echo 'Delivering'
 }
 }
 }
+post {
+always {
+echo 'Always'
 }
+}
+}
+
+
